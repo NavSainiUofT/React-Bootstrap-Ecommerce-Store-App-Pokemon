@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Pokemon Emerald",
+        "price": 84.99,
+        "imgUrl": "/img/emerald.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pokemon Diamond",
+        "price": 99.99,
+        "imgUrl": "/img/diamond.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pokemon Blue",
+        "price": 999.99,
+        "imgUrl": "/img/blue.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pokemon LeafGreen",
+        "price": 39.99,
+        "imgUrl": "/img/leafgreen.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Pokemon XD Gale of Darkness",
+        "price": 59.99,
+        "imgUrl": "/img/xd.jpg"
+    }
+    ,
+    {
+        "id": 6,
+        "name": "Pokemon Lets Go Pickachu!",
+        "price": 49.99,
+        "imgUrl": "/img/letsgo.jpg"
+    }
+]
