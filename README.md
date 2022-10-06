@@ -12,6 +12,8 @@ This was an ecommerce cart app created using React and Bootstrap and deployed to
 ![image](https://user-images.githubusercontent.com/40246928/194167955-782e1f4d-96de-43bd-a6c4-0e2aaf88e7d9.png)
 ![image](https://user-images.githubusercontent.com/40246928/194168001-398292d5-0e4d-44d6-9569-2ef247679d55.png)
 ![image](https://user-images.githubusercontent.com/40246928/194168037-46003971-7de5-4bfe-8682-e6e25525e68f.png)
+![image](https://user-images.githubusercontent.com/40246928/194362101-a2ac8462-862b-430a-be93-c95c3a85eaa8.png)
+
 
 ### Overall this project was super fun and I learned a lot about ReactJS ###
 *Disclaimer, this is NOT a real store! this is a mock project. I do not own any rights to the Pokemon franchise all rights go to Nintendo Pokemon
