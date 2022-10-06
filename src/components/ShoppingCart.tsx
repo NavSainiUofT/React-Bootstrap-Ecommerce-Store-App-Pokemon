@@ -1,4 +1,4 @@
-import { Offcanvas, Stack } from "react-bootstrap";
+import { Button, Offcanvas, Stack } from "react-bootstrap";
 import { useShoppingCart } from "../context/ShoppingCartContext";
 import { formatCurrency } from "../utilities/formatCurrency";
 import { CartItem } from "./CartItem";
@@ -7,7 +7,9 @@ import storeItems from "../data/items.json";
 type ShoppingCartProps = {
     isOpen:boolean;
 }
-
+function checkout(t:number){
+    alert("You have checked out of the FAKE store your total is: " + t);
+}
 export function ShoppingCart({ isOpen }: ShoppingCartProps){
     const { closeCart, cartItems } = useShoppingCart();
     return (
@@ -25,6 +27,12 @@ export function ShoppingCart({ isOpen }: ShoppingCartProps){
                         }, 0))}
                     </div>
                 </Stack>
+                <Button onClick={() => checkout(cartItems.reduce((total, cartItems) => {
+                            const item = storeItems.find(i=> i.id === cartItems.id)
+                            return total + (item?.price || 0) * cartItems.quantity;
+                        }, 0))}>
+                    Checkout
+                </Button>
             </Offcanvas.Body>
         </Offcanvas>
     )

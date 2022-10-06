@@ -18,13 +18,14 @@ export function Banner(){
       };
     return(
         <>
-        <Card>
+        <Card className="mt-5">
         
         
         <Row>
         
-            <Col>
+            <Col className="p-2">
                 <Card.Img
+                className="m-2"
                 variant="left"
                 src={item?.imgUrl}
                 height="300px"
@@ -32,10 +33,10 @@ export function Banner(){
                 style={{ objectFit: "cover" }}
                 ></Card.Img>
             </Col>
-            <Col>
+            <Col className="mr-2 mt-2">
             <span className="d-flex "><h1>{item?.name}<h3 className="text-muted">Promotion</h3></h1></span>
                     <p>Get it now for just {formatCurrency(item?.price)}</p>
-                    <Button variant="secondary" onClick={navigateStore}>Shop Now</Button><br/>
+                    <Button variant="primary" onClick={navigateStore}>Shop Now!</Button><br/>
                     <br/>
                     <p className="text-muted">*This is a mock site and so all offers are not real</p>
             </Col>

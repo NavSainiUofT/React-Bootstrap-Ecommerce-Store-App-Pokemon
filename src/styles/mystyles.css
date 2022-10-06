@@ -1,6 +1,9 @@
-.homediv{
-    height:50vh;
-}
-.pokemonbg{
-    background-image: url("https://images.wallpapersden.com/image/wxl-pokemon-pikachu-art_69889.jpg");
-}
+.landing-wrapper {
+    display: table;
+    width: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.3)), url('https://i.pinimg.com/736x/df/77/4b/df774ba63b03872a13a1b7c2685b28a9.jpg');
+    background-position: center top;
+    height: 100%;
+    color: white;
+    border-radius: 10px;
+  }

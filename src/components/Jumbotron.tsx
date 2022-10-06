@@ -1,8 +1,8 @@
 export function Jumbotron() {
   return (
     <>
-      <div className="homediv container-fluid bg-dark text-light p-5 mb-4">
-        <div className="container bg-dark p-5">
+
+        <div className="landing-wrapper container p-5">
           <h1 className="display-4">Welcome to my Fake Pokemon Store</h1>
           <hr />
           <p>Go to My Store</p>
@@ -15,7 +15,7 @@ export function Jumbotron() {
             This store is super awesome!
           </h3>
         </div>
-      </div>
+
     </>
   );
 }
