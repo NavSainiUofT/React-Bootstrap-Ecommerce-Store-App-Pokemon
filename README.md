@@ -1,5 +1,6 @@
 # React-Bootstrap-Ecommerce-Cart-App-Pokemon 
 This was an ecommerce cart app created using React and Bootstrap and deployed to google firebase
+## DEMO: ##
 ## https://ecommerce-cart-app-pokemon.web.app/ ##
 
 ## Items can be added to the cart and the cart be stored in local storage so even if you refresh the page, items will remain in the cart. The total price of all the itemas will also show as well as an option to remove the items ##
