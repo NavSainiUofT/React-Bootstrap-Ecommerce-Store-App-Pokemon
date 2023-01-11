@@ -1,5 +1,5 @@
 # React-Bootstrap-Ecommerce-Cart-App-Pokemon 
-This was an ecommerce cart app created using React and Bootstrap and deployed to google firebase
+This was an ecommerce cart app created using React and Bootstrap and deployed to google firebase.
 ## DEMO: ##
 ## https://ecommerce-cart-app-pokemon.web.app/ ##
 
