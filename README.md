@@ -7,7 +7,7 @@ This was an ecommerce cart app created using React and Bootstrap and deployed to
 ![image](https://user-images.githubusercontent.com/40246928/194359322-10b2e5b5-aa07-46cf-8902-e239d7f321f6.png)
 ![image](https://user-images.githubusercontent.com/40246928/194167632-9e69bae8-c73a-492f-a8b6-856a4ca33ae4.png)
 
-### On the home page there is a banner after the jumbotron/hero which will randomly generate an item from the mock database of available items and using a React context, the data is presented as a promo with the price and a link to the store.
+### On the home page there is a banner after the jumbotron/hero which will randomly generate an item from the mock database of available items and using a React context, the data is presented as a promo with the price and a link to the store
 
 ![image](https://user-images.githubusercontent.com/40246928/194359322-10b2e5b5-aa07-46cf-8902-e239d7f321f6.png)
 ![image](https://user-images.githubusercontent.com/40246928/194167955-782e1f4d-96de-43bd-a6c4-0e2aaf88e7d9.png)
