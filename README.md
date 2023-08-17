@@ -17,4 +17,4 @@ This was an ecommerce cart app created using React and Bootstrap and deployed to
 
 
 ### Overall this project was super fun and I learned a lot about ReactJS ###
-*Disclaimer, this is NOT a real store! this is a mock project. I do not own any rights to the Pokemon franchise all rights go to Nintendo Pokemon.
+*Disclaimer, this is NOT a real store! this is a mock project. I do not own any rights to the Pokemon franchise all rights go to Nintendo Pokemon
